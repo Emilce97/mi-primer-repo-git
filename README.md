@@ -1,0 +1,3 @@
+- **Nombre:** Spital,Emilce Noemí  
+- **Comisión:** M2025-9
+- ** Tecnicatura:** Este trabajo es para la tecnicatura en programación 
